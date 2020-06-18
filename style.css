@@ -1009,4 +1009,14 @@ input:checked ~ .details-six{
     transform-origin: bottom;
     transition: transform 0.5s;
   }
+  .about{
+    margin-top: 80px;
+    margin-left: 50px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  .about-right-col{
+    flex-basis: none;
+  }
 }
