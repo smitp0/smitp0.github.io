@@ -393,10 +393,10 @@ input{
   text-align: center;
   line-height: 50px;
   font-size: 40px;
-  box-shadow: 0 0 0 0px #DCDCDC;
+  box-shadow: 0 0 0 0px #FAF6F6;
 }
 input:checked ~ .toggle{
-  box-shadow: 0 0 0 500px #DCDCDC;
+  box-shadow: 0 0 0 500px #FAF6F6;
   transform: rotate(225deg);
 }
 .imgBx-one,
