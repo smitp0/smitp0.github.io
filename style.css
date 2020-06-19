@@ -656,6 +656,7 @@ input:checked ~ .details-five{
 }
 .details-five p{
   margin-top: 65px;
+  pointer-events: all;
 }
 .info-five h3{
   position: relative;
