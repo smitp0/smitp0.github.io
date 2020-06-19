@@ -597,11 +597,9 @@ input:checked ~ .details-four{
   opacity: 1;
   transition-delay: 0.2s;
 }
-.details-four h2{
-  margin-bottom: 5px;
-}
-.details-four p{
-  margin: 0;
+.details-four ul{
+  align-items: center;
+  margin-left: 5px;
   padding: 0;
 }
 .info-four h3{
@@ -651,12 +649,13 @@ input:checked ~ .details-five{
   opacity: 1;
   transition-delay: 0.2s;
 }
-.details-five h2{
-  margin-bottom: 5px;
+.details-five ul{
+  align-items: center;
+  margin-left: 5px;
+  padding: 0;
 }
 .details-five p{
-  margin: 0;
-  padding: 0;
+  margin-top: 60px;
 }
 .info-five h3{
   position: relative;
